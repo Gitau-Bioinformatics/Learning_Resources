@@ -5,7 +5,8 @@ Mastering Bioinformatics requires an array of skills, as Bioinformatics is a mul
 The following sections are key to becoming proficient in different aspects under the umbrella of Bioinformatics  
 
 ## Mastering R and Rstudio  
-- A good introduction to R and Rstudio by Riffamonas [MinimalR](https://riffomonas.org/minimalR/)  
+- A good introduction to R and Rstudio by Riffamonas [MinimalR](https://riffomonas.org/minimalR/)
+- [R for Data Science](https://r4ds.hadley.nz/)
 
   
 ## RNASeq Analysis

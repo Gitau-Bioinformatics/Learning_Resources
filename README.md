@@ -10,4 +10,5 @@ The following sections are key to becoming proficient in different aspects under
 
   
 ## RNASeq Analysis
-- A [step by Step Analysis of RNASeq data](https://github.com/CebolaLab/RNA-seq) 
+- A [step by Step Analysis of RNASeq data](https://github.com/CebolaLab/RNA-seq)
+- [A kind introduction to Differential gene expression Analysis](https://ucdavis-bioinformatics-training.github.io/2022-April-GGI-DE-in-R/data_analysis/DE_Analysis_with_quizzes_fixed) 

@@ -14,4 +14,4 @@ The following sections are key to becoming proficient in different aspects under
 - [A kind introduction to Differential gene expression Analysis](https://ucdavis-bioinformatics-training.github.io/2022-April-GGI-DE-in-R/data_analysis/DE_Analysis_with_quizzes_fixed)
 
 ## Bash Scripting
-- [Calc Quebec Training introduction to command line] (https://swcarpentry.github.io/shell-novice/)
+- [Calc Quebec Training introduction to command line](https://swcarpentry.github.io/shell-novice/)

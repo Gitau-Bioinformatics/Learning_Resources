@@ -8,7 +8,7 @@ The following sections are key to becoming proficient in different aspects under
 - A good introduction to R and Rstudio by Riffamonas [MinimalR](https://riffomonas.org/minimalR/)
 - [R for Data Science](https://r4ds.hadley.nz/)
 
-## [Introduction to Python Programming](https://swcarpentry.github.io/python-novice-inflammation/)
+### [Introduction to Python Programming](https://swcarpentry.github.io/python-novice-inflammation/)
 
   
 ## RNASeq Analysis

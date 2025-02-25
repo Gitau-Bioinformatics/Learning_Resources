@@ -18,3 +18,6 @@ The following sections are key to becoming proficient in different aspects under
 
 ## Bash Scripting
 - [Calc Quebec Training introduction to command line](https://swcarpentry.github.io/shell-novice/)
+
+## Computing
+  -[calc Quebec into to compute clusters](https://docs.google.com/presentation/d/1p55jYkr776A6Ccb2Piz0nzRbxns_W66H92qLrAYKm40/edit#slide=id.g113d7e50498_0_368)
